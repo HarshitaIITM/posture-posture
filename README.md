@@ -1,2 +1,2 @@
 # posture-posture
-for correcting the posture.
+Chrome extension for correcting the posture.
